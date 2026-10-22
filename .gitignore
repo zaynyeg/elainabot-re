@@ -1,0 +1,9 @@
+node_modules/
+elaina_session/
+session/
+log/
+.env
+database_backup_*.json
+tmp/
+data/lid-cache.json
+database/
